@@ -13,7 +13,7 @@ Note: The Maven repository address needs to be configured in both 'buildscript' 
 
 (2) If you are using Gradle for integration, add the following code to your project's build.gradle:
 ```kotlin
-implementation 'dev.deeplink:id:2.0.0'
+implementation 'dev.deeplink:id:2.0.1'
 ```
 
 Step 2: Generate Device Id
