@@ -16,7 +16,7 @@ Note: The Maven repository address needs to be configured in both 'buildscript' 
 implementation 'dev.deeplink:fingerprint:3.0.0'
 ```
 
-Step 2: Generate Device Id
+Step 2: Generate Device Fingerprint
 ```kotlin
 class TestActivity : Activity() {
 
