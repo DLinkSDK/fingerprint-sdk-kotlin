@@ -13,7 +13,7 @@ Note: The Maven repository address needs to be configured in both 'buildscript' 
 
 (2) If you are using Gradle for integration, add the following code to your project's build.gradle:
 ```kotlin
-implementation 'dev.deeplink:fingerprint:3.0.1'
+implementation 'dev.deeplink:fingerprint:3.0.2'
 ```
 
 Step 2: Generate Device Fingerprint
